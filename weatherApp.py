@@ -4,7 +4,7 @@ import pprint
 
 
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather?"
-API_KEY = "98517bc6fee36fb17962ae74016d9fb0"
+API_KEY = "" # You can get this api key from the link of " api openweathermap "
 while True:
     try:
         CITY = input("Enter your city : ")
